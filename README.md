@@ -10,7 +10,7 @@ Copyright 2026 24-blog / 235. All Rights Reserved
 It has not been added yet.
 
 ## Memo
-装備∶Grimoire（Lv∶Lehrling）<br>
+装備∶グリモワール（練度∶見習い）<br>
 https://24-blog.github.io/product/
 
 変更前∶学歴／信仰<br>
