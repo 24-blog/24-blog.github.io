@@ -13,6 +13,9 @@ It has not been added yet.
 装備∶グリモワール（練度∶見習い）<br>
 https://24-blog.github.io/product/
 
+変更前∶資産<br>
+変更後∶報酬　¥ −− / SS
+
 変更前∶学歴／信仰<br>
 変更後∶信仰／結縁
 
@@ -27,6 +30,3 @@ https://24-blog.github.io/product/
 
 変更前∶Political Map<br>
 変更後∶Attribute 属性
-
-変更前∶資産<br>
-変更後∶報酬　¥ −− / SS
