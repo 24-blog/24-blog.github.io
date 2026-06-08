@@ -7,7 +7,10 @@ Copyright 2026 24-blog / 235. All Rights Reserved
 
 
 ⚠️ABOUT<br>
-It has not been added yet.
+It has not been added yet.<br>
+(Currently Under Construction
+)
+
 
 ## Memo
 装備∶泥黎の経典Lv3<br>
