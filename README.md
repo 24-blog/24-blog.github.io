@@ -11,7 +11,7 @@ It has not been added yet.<br>
 (Currently Under Construction！)
 
 
-## Memo
+## memo
 装備∶泥黎の経典Lv3<br>
 https://24-blog.github.io/product/
 
