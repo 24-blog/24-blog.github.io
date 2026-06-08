@@ -3,7 +3,27 @@ https://24-blog.github.io/
 
 
 ⚠️COPYRIGHT<br>
-The source code of this repository is licensed under MIT.
+Copyright 2026 24-blog / 235. All Rights Reserved
 
-Textual commentary written by the repository owner is
-licensed under CC BY-NC-ND 4.0.
+
+⚠️ABOUT<br>
+It has not been added yet.
+
+## Memo
+装備∶運命神の法輪（確率で即死効果）<br>
+https://24-blog.github.io/roulette-app/
+
+変更前∶Identity<br>
+変更後∶Belongings
+
+変更前∶License<br>
+変更後∶Qualification
+
+変更前∶Skills<br>
+変更後∶Certification
+
+変更前∶Political Map<br>
+変更後∶Attribute 属性
+
+変更前∶資産<br>
+変更後∶報酬　¥ −− / SS
