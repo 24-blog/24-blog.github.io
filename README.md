@@ -10,7 +10,7 @@ Copyright 2026 24-blog / 235. All Rights Reserved
 It has not been added yet.
 
 ## Memo
-装備∶破戒の経典Lv3<br>
+装備∶泥黎の経典Lv3<br>
 https://24-blog.github.io/product/
 
 変更前∶資産<br>
