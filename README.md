@@ -13,6 +13,9 @@ It has not been added yet.
 装備∶Grimoire（Lv∶Lehrling）<br>
 https://24-blog.github.io/product/
 
+変更前∶学歴／信仰
+変更後∶信仰／結縁
+
 変更前∶Identity<br>
 変更後∶Belongings
 
