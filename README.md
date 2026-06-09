@@ -6,6 +6,6 @@ https://24-blog.github.io/
 Copyright 2026 24-blog / 235. All Rights Reserved
 
 
-⚠️ABOUT<br>
-It has not been added yet.<br>
+> [!TIP]
+> It has not been added yet.<br>
 (Currently Under Construction！)
