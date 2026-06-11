@@ -1,6 +1,6 @@
 # Music Credits
 
-BGM∶Castle Theme<br>
+BGM∶Peritune Glistening Ripples<br>
 Composer∶PeriTune<br>
 Website∶https://peritune.com/
 
