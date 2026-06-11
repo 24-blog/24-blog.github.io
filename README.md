@@ -1,3 +1,6 @@
+　[![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)](LICENSE)
+
+
 ⚠️COPYRIGHT<br>
 Copyright 2026 24-blog / 235. All Rights Reserved
 
