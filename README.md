@@ -2,7 +2,7 @@
 
 
 ⚠️Music Credits<br>
-BGM∶Peritune Glistening Ripples<br>
+BGM∶Glistening Ripples<br>
 Composer∶PeriTune<br>
 Website∶https://peritune.com/
 
