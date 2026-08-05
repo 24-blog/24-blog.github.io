@@ -4,7 +4,7 @@
 ⚠️Music Credits<br>
 BGM∶Glistening Ripples<br>
 Composer∶PeriTune<br>
-Website∶https://peritune.com/
+Website∶https://peritune.com
 
 BGM∶新天地<br>
 Composer∶H/MIX GALLERY（秋山裕和）<br>
