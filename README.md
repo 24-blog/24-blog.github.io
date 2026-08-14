@@ -1,4 +1,4 @@
-　[![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)](LICENSE)
+[![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)](LICENSE)
 
 
 ⚠️Music Credits<br>
