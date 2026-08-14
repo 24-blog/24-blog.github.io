@@ -12,5 +12,4 @@ Website∶https://www.hmix.net
 
 
 > [!TIP]
-> It has not been added yet.<br>
-※Currently Under Construction！
+> It has not been added yet.
