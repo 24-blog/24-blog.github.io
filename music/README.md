@@ -5,5 +5,5 @@ Composer∶魔王魂<br>
 Website∶https://maou.audio/
 
 BGM∶新天地<br>
-H/MIX GALLERY（秋山裕和）<br>
+Composer∶H/MIX GALLERY（秋山裕和）<br>
 Website∶https://www.hmix.net
