@@ -3,7 +3,7 @@
 
 ⚠️Music Credits<br>
 BGM∶maou_bgm_fantasy01<br>
-Composer∶魔王魂<br>
+Composer∶魔王魂（森田交一）<br>
 https://maou.audio/bgm_fantasy01/
 
 BGM∶新天地<br>
