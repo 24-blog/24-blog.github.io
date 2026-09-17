@@ -1,11 +1,13 @@
+⚠️Illustration Credits<br>
+Illustration∶亡者の帰還<br>
+Art∶シンテリ<br>
+https://syntelligence.jp/article/11107
+
+
 ⚠️Music Credits<br>
 BGM∶maou_bgm_fantasy01<br>
 Composer∶魔王魂（森田交一）<br>
 https://maou.audio/bgm_fantasy01/
-
-Illustration∶亡者の帰還<br>
-Art∶シンテリ<br>
-https://syntelligence.jp/article/11107
 
 BGM∶新天地<br>
 Composer∶H/MIX GALLERY（秋山裕和）<br>
