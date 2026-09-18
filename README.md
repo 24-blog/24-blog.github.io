@@ -16,7 +16,3 @@ https://www.hmix.net/music/n90.html
 BGM∶Departure<br>
 Composer∶H/MIX GALLERY（秋山裕和）<br>
 https://www.hmix.net/music/n81.html
-
-
-> [!TIP]
-> This URL has not been added yet.
