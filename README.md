@@ -4,7 +4,7 @@
 |  | アイコン |  |
 |  | サウンド |  |
 
-
+<p>
 ⚠️Illustration Credits<br>
 Illustration∶亡者の帰還<br>
 Art∶シンテリ<br>
@@ -23,3 +23,4 @@ https://www.hmix.net/music/n90.html
 BGM∶Departure<br>
 Composer∶H/MIX GALLERY（秋山裕和）<br>
 https://www.hmix.net/music/n81.html
+</p>
