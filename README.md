@@ -1,3 +1,10 @@
+### 編集メモ
+| 行 | 要素 | 備考 |
+| :--- |:--- |:--- |
+|  | アイコン |  |
+|  | サウンド |  |
+
+
 ⚠️Illustration Credits<br>
 Illustration∶亡者の帰還<br>
 Art∶シンテリ<br>
