@@ -1,4 +1,4 @@
 # Image Credits
-Illustration∶亡者の帰還<br>
+Illustration∶影に生きる<br>
 Art∶シンテリ<br>
-https://syntelligence.jp/article/11107
+https://syntelligence.jp/article/11089
