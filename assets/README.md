@@ -1,4 +1,4 @@
 # Image Credits
-Illustration∶影に生きる (avatar1)<br>
+Illustration∶影に生きる (avatar)<br>
 Art∶シンテリ<br>
 https://syntelligence.jp/article/11089
