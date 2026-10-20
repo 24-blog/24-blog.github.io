@@ -1,4 +1,4 @@
-# Audio Credits
+## Audio Credits
 
 BGM∶maou_bgm_fantasy01<br>
 Composer∶魔王魂（森田交一）<br>
