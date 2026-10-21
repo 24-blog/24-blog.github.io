@@ -7,9 +7,9 @@
 
 ### For Myself
 > [!IMPORTANT]
-> feedをルートへ統合する？
-> メリット: 同一リポジトリで管理可能
-> デメリット: 更新操作が増える
+> feedをルートへ統合する？<br>
+> メリット: 同一リポジトリで管理可能<br>
+> デメリット: 更新操作が増える<br>
 > https://github.com/24-blog/feed
 
 > [!CAUTION]
