@@ -8,6 +8,7 @@
 ### For Myself
 > [!IMPORTANT]
 > feedをルートへ統合する。
+> https://github.com/24-blog/feed
 
 > [!CAUTION]
 > This URL must not be added to the list.
