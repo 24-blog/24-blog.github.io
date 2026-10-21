@@ -6,5 +6,8 @@
 
 
 ### For Myself
+> [!IMPORTANT]
+> feedをルートへ統合する。
+
 > [!CAUTION]
 > This URL must not be added to the list.
