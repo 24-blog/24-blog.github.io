@@ -7,7 +7,7 @@
 
 ### For Myself
 > [!IMPORTANT]
-> feedをルートへ統合する。
+> feedをルートへ統合する。<br>
 > https://github.com/24-blog/feed
 
 > [!CAUTION]
