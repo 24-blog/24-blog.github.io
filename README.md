@@ -6,12 +6,14 @@
 
 
 ### Data
-| io | size |
+| Github.io | size |
 | :--- |:--- |
 | index | 27.7kb |
 | icon | 189kb |
 | music | 521kb |
-| feed | size |
+
+| Github.feed | size |
+| :--- |:--- |
 | index | 6.65kb |
 | post | ---- |
 | icon | 189kb |
