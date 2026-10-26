@@ -9,14 +9,14 @@
 | Github.io | size |
 | :--- |:--- |
 | index | 27.7kb |
-| icon | 189kb |
+| icon | 58kb |
 | music | 521kb |
 
 | Github.feed | size |
 | :--- |:--- |
 | index | 6.65kb |
 | post | -------- |
-| icon | 189kb |
+| icon | 58kb |
 
 
 > [!CAUTION]
