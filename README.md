@@ -15,7 +15,7 @@
 | Github.feed | size |
 | :--- |:--- |
 | index | 6.65kb |
-| post | ---------- |
+| post | -------- |
 | icon | 189kb |
 
 
