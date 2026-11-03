@@ -4,12 +4,8 @@
 | index | 27.7kb |
 | icon | 58kb (16.8) |
 | music | 521kb |
-
-| Github.feed | size |
-| :--- |:--- |
-| index | 6.65kb |
+| feed | 6.65kb |
 | post | -------- |
-| icon | 58kb (16.8) |
 
 
 > [!CAUTION]
