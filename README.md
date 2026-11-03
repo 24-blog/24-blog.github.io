@@ -5,7 +5,7 @@
 | music | 521kb |
 | index | 27.7kb |
 | feed | 6.65kb |
-| post | -------- |
+| post | 295b |
 
 
 > [!CAUTION]
