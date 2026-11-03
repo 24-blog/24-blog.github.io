@@ -1,9 +1,9 @@
 ### Data
 | Github.io | size |
 | :--- |:--- |
-| index | 27.7kb |
 | icon | 58kb (16.8) |
 | music | 521kb |
+| index | 27.7kb |
 | feed | 6.65kb |
 | post | -------- |
 
