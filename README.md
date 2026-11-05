@@ -4,8 +4,8 @@
 | icon | 58kb (16.8) |
 | music | 521kb |
 | index | 27.7kb |
-| feed | 6.65kb |
-| post | 295b |
+| feed.index | 6.65kb |
+| post.txt | 295b |
 
 
 > [!CAUTION]
