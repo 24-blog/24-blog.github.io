@@ -1,11 +1,11 @@
-### Data
+### Data Size by File
 | Github.io | size |
 | :--- |:--- |
-| icon | 58kb (16.8) |
-| music | 521kb |
-| index | 27.7kb |
-| [feed.index](https://github.com/24-blog/feed) | 6.65kb |
-| post.txt | 295b |
+| icon | 58 kb (16.8) |
+| music | 521 kb |
+| index | 27.7 kb |
+| [feed.index](https://github.com/24-blog/feed) | 6.65 kb |
+| post.txt | 295 b |
 
 
 > [!CAUTION]
