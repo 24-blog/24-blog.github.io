@@ -14,3 +14,6 @@
 
 > [!CAUTION]
 > This URL must not be added to the list.
+
+> [!NOTE]
+> Political Map has been rebuilt based on https://github.com/24-blog/o3d
