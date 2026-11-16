@@ -11,7 +11,7 @@
 | [feed.index](https://github.com/24-blog/feed) | 6.65 kb |
 | post.txt | 327 b |
 
-※<Mark>572.5 kb 〜 653.7</Mark> kb
+※ <Mark>572.5 kb 〜 653.7</Mark> kb
 
 > [!NOTE]
 > Political Map has been rebuilt based on https://github.com/24-blog/o3d
