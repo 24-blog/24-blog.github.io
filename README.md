@@ -9,7 +9,7 @@
 | Feed | size |
 | :--- |:--- |
 | [feed.index](https://github.com/24-blog/feed) | 6.65 kb |
-| post.txt | 295 b |
+| post.txt | 327 b |
 
 
 > [!NOTE]
