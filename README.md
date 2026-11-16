@@ -2,8 +2,8 @@
 
 | Github.io | size |
 | :--- |:--- |
-| icon | 58 kb (16.8) |
-| music | 521 kb |
+| icon | 16.8 〜 58 kb |
+| music | 521 〜 561 kb |
 | index | 27.7 kb |
 
 | Feed | size |
