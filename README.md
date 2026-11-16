@@ -14,7 +14,8 @@
 ※ <Mark>572.5 kb 〜 653.7</Mark> kb
 
 > [!NOTE]
-> Political Map has been rebuilt based on https://github.com/24-blog/o3d
+> Political Map has been rebuilt based on
+> https://github.com/24-blog/o3d
 
 > [!CAUTION]
 > This URL must not be added to the list.
